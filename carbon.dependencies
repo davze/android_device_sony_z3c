@@ -6,8 +6,8 @@
     "revision": "cm-12.1"
   },
   {
-    "remote": "cm",
-    "repository": "android_kernel_sony_msm8974",
+    "remote": "github",
+    "repository": "Myself5/android_kernel_sony_msm8974",
     "target_path": "kernel/sony/msm8974",
     "revision": "cm-12.1"
   },
@@ -36,8 +36,8 @@
     "revision": "cm-12.1"
   },
   {
-    "remote": "tm",
-    "repository": "proprietary_vendor_sony",
+    "remote": "github",
+    "repository": "TheMuppets/proprietary_vendor_sony",
     "target_path": "vendor/sony",
     "revision": "cm-12.1"
   }
