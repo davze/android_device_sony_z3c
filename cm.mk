@@ -1,5 +1,5 @@
 # Inherit Carbon common Phone stuff.
-$(call inherit-product, vendor/carbon/config/common_phone.mk)
+$(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 $(call inherit-product, device/sony/z3c/full_z3c.mk)
 
