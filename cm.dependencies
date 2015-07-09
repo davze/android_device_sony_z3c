@@ -1,0 +1,50 @@
+[
+  {
+    "remote":      "github",
+    "repository":  "davze/android_device_sony_z3c",
+    "target_path": "device/sony/z3c",
+    "revision":    "lp5.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "CyanogenMod/android_device_sony_shinano-common",
+    "target_path": "device/sony/shinano-common",
+    "revision":    "cm-12.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "Myself5/android_kernel_sony_msm8974",
+    "target_path": "kernel/sony/msm8974",
+    "revision":    "cm-12.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "CyanogenMod/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision":    "cm-12.1"
+  },
+  {
+    "remote":      "ss",
+    "repository":  "android_device_sony_common",
+    "target_path": "device/sony/common",
+    "revision":    "pac-5.1"
+  },
+  {
+    "remote":      "ss",
+    "repository":  "android_device_sony_msm8974-common",
+    "target_path": "device/sony/msm8974-common",
+    "revision":    "pac-5.1"
+  },
+  {
+    "remote":      "pic",
+    "repository":  "proprietary_vendor_sony",
+    "target_path": "vendor/sony",
+    "revision":    "cm-12.1"
+  },
+  {
+    "remote":      "ss",
+    "repository":  "android_hardware_sony_thermanager",
+    "target_path": "hardware/sony/thermanager",
+    "revision":    "pac-5.1"
+  }
+]
